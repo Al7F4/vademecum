@@ -5,10 +5,10 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+## Это цифровой сад Vademecum
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Но в полной мере цифровой сад Vademecum раскроется, когды вы просто погрузитесь в цепочки тем, смыслов и ссылок. Для таких осмелившихся, предлагаю начать именно отсюда:   <span style="font-weight: bold">[[Your first note]]</span>
 </p>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
