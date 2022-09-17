@@ -12,7 +12,7 @@
 - Features a simple and responsive design
 - Supports Markdown or HTML notes
 
-<img width="1000" alt="ScreenShot" src="https://github.com/Al7F4/vademecum/blob/master/vmpreview.png">
+<img width="800" alt="ScreenShot" src="https://github.com/Al7F4/vademecum/blob/master/vmpreview.png">
 
 ## License
 
