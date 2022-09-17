@@ -32,8 +32,8 @@ time {
 
 footer {
   margin: 2em 0;
-  font-size: 0.8em;
-  color: mix($color-text, white, 80%);
+  font-size: 1em;
+  color: mix($color-text, white, 50%);
   padding-top: 1em;
 }
 
@@ -135,13 +135,13 @@ code {
 }
 
 .invalid-link {
-  color: #444444;
+  color: #888888;
   cursor: help;
   background: #fafafa;
   padding: 0 0.1em;
 }
 
 .invalid-link-brackets {
-  color: #ccc;
+  color: #cfcfcf;
   cursor: help;
 }
