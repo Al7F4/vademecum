@@ -1,9 +1,10 @@
 ---
 layout: note
 title: Главная
-id: home
+id: Главная
 permalink: /
 ---
+
 
 ## Цифровой сад Vademecum
 
