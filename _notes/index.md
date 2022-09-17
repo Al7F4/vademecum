@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Главная
-id: Главная
+id: home
 permalink: /
 ---
 
