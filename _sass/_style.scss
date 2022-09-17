@@ -1,9 +1,9 @@
 $color-primary: hsl(190, 10%, 20%);
-$color-secondary: hsl(190, 100%, 20%);
-$color-text: hsl(0, 0%, 20%);
+$color-secondary: hsl(190, 100%, 40%);
+$color-text: hsl(165, 5%, 30%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
-$color-box-background: mix($color-primary, white, 4%);
+$color-box-background: mix($color-secondary, white, 4%);
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
