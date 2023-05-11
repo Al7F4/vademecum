@@ -13,7 +13,6 @@
 - Supports Markdown or HTML notes
 - Google Analytics included
 
-<img width="800" alt="ScreenShot" src="https://github.com/Al7F4/vademecum/blob/master/vmpreview.png">
 
 ## License
 
