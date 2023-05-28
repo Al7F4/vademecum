@@ -1,30 +1,25 @@
+---
+layout: note
+title: Data Driven Desicion Making
+id: Data Driven Desicion Making
+tag: moc
+---
 
-
-# Data-driven decision making: Succeed in the digital era
-  
-
-What is data-driven decision making?
-------------------------------------
-
+### What is data-driven decision making?
 Data-driven decision making (DDDM) is defined as using facts, metrics, and data to guide strategic business decisions that align with your goals, objectives, and initiatives. When organizations realize the full value of their data, that means everyone—whether you’re a business analyst, sales manager, or human resource specialist—is empowered to make better decisions with data, every day. However, this is not achieved by simply choosing the appropriate analytics technology to identify the next strategic opportunity.
 
 Your organization needs to make data-driven decision-making the norm—creating a culture that encourages critical thinking and curiosity. People at every level have conversations that start with data and they develop their data skills through practice and application. Foundationally, this requires a self-service model, where people can access the data they need, balanced with security and governance. It also requires proficiency, creating training and development opportunities for employees to learn data skills. Finally, having executive advocacy and a community that supports and makes data-driven decisions will encourage others to do the same.
 
 Establishing these core capabilities will help encourage data-driven decision making across all job levels so business groups will regularly question and investigate information to discover powerful insights that drive action.
-
   
-
-The importance of data-driven decision making
----------------------------------------------
-
+### The importance of data-driven decision making
 The amount of information collected has never been greater, but it’s also more complex. This makes it difficult for organizations to manage and analyze their data. In fact, NewVantage Partners recently [reported that 98.6 percent of executives](http://newvantage.com/wp-content/uploads/2018/01/Big-Data-Executive-Survey-2018-Findings.pdf) indicate that their organization aspires to a data-driven culture, while only 32.4 percent report having success. A [2018 IDC study](https://hbr.org/2019/03/digital-transformation-is-not-about-technology) also noted that organizations have invested trillions of dollars to modernize their business, but [70 percent of these initiatives fail](https://www.forbes.com/sites/forbestechcouncil/2018/03/13/why-digital-transformations-fail-closing-the-900-billion-hole-in-enterprise-strategy/#3cc39e2c7b8b) because they prioritized technology investments without building a data culture to support it.
 
 In pursuit to be data-driven, many enterprises are developing [three core capabilities](https://help.tableau.com/current/blueprint/en-us/bp_core_capabilities_of_data_driven.htm): data proficiency, analytics agility, and community. Transforming how your company makes decisions is no easy task, but incorporating data and analytics into decision-making cycles is how you will see the most transformative impact on your organization. This level of transformation requires a dedicated approach to developing and refining your analytics program.
 
-  
 
-Organizations benefiting from data-driven decision making
----------------------------------------------------------
+
+### Organizations benefiting from data-driven decision making
 
 Thanks to modern business intelligence, organizations are inching closer and closer to understanding the value of data-driven decision making across all departments and roles. Here are a few examples of organizations that are effectively leveraging the value of their people and their data.
 

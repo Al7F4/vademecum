@@ -9,7 +9,7 @@ tag: toc, data-driven
 
 
 ## Статья о подходе DDDM
-[[Data Driven Desicion|Data-driven decision making: Succeed in the digital era]]
+[[Data Driven Desicion Making. Принятие решений на основе данных|Data-driven decision making: Succeed in the digital era]]
 
 
 

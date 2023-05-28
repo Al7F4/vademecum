@@ -11,7 +11,7 @@ date: 11.05.2023
 
 Годовую норму прибыли также можно назвать «средней годовой доходностью (AAR)
 
-Годовая норма прибыли = [ (EYP – BYP) / BYP ] x 100
+**Годовая норма прибыли = (EYP – BYP) / BYP) x 100**
 
 ---
 [Guide To Rate of Return | Indeed.com](https://www.indeed.com/career-advice/career-development/guide-rate-of-return)
