@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: home
 title: Главная
 id: home
 permalink: /
